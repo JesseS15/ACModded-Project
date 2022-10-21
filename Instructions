@@ -1,19 +1,15 @@
 1.) Download and Open CurseForge
   (Found Here -> https://download.curseforge.com/)
   
-2.) In the top right, open "+ Create Custom Profile"
+2.) In the search bar, lookup "The 1.12.2 Pack"
+Or... go to url and download (https://www.curseforge.com/minecraft/modpacks/the-1122-pack)
 
-3.) Download and Import the Custom Modpack zip file (NOTE: DO NOT unzip modpack. Import the zip file)
-  (Found Here - > https://drive.google.com/file/d/1FT2mqu_6NPtgH9PR-65YkM4eiEZciDfL/view?usp=sharing)
-  
-4.) Create a Profile Name, select Minecraft Version 1.12.2, Forge, Modloader Version "forge-14.23.5.2860"
+3.) While the pack is installing, Open Curseforge Settings in the bottom left
 
-5.) While the pack is installing, Open Curseforge Settings in the bottom left
-
-6.) Select Minecraft on the left panel, and scroll down to the Java Settings. 
+4.) Select Minecraft on the left panel, and scroll down to the Java Settings. 
   Set the dedicated Allocated Memory value based on your computers RAM capacity
   	Memory (RAM): 
-		Required: 3200 MB 
-		Recommended: 4500+ MB
+		Required: 3500 MB 
+		Recommended: 5000+ MB
 
-7.) Close out of the settings, and click "play" on the modpack
+5.) Close out of the settings, and click "play" on the modpack
